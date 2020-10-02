@@ -1,3 +1,9 @@
+# link to backend https://github.com/Paulracisz/ghostpost_backend/tree/master
+
+
+<p>This project is the front-end react app for my capstone project called Ghost Post, This app will be responsible for displaying all data for ghost post, such as all the posts, all of the likes and other data coming in from the backend.</p>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
